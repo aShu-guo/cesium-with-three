@@ -1,0 +1,23 @@
+{
+  "name": "cesium-with-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "cesium": "^1.120.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.167.1",
+    "vite": "^5.4.0",
+    "vite-plugin-cesium": "^1.2.23"
+  },
+  "devDependencies": {
+    "@types/stats.js": "^0.17.3",
+    "@types/three": "^0.167.1",
+    "typescript": "^5.5.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
