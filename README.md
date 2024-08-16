@@ -21,3 +21,5 @@
 ![img](./public/not_cover.png)
 
 ![img](./public/not_cover-1.png)
+
+- 只能three中的几何体遮挡cesium中的对象，原因是在DOM层面，绘制three的canvas层级高
